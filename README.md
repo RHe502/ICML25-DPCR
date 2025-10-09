@@ -70,10 +70,19 @@ The implementation of the codes is partly referred to [PyCIL](https://github.com
 ## Cite Our Paper
 If you find this paper useful, please consider staring this repo and citing our paper:
 ```bib
-@misc{He_ICML2025_DPCR,
+@InProceedings{He_ICML2025_DPCR,
   title = 	 {Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning},
-  author =       {Run He and Di Fang and Yicheng Xu and Yawen Cui and Ming Li and Cen Chen and Ziqian Zeng and Huiping Zhuang},
+  author =       {He, Run and Fang, Di and Xu, Yicheng and Cui, Yawen and Li, Ming and Chen, Cen and Zeng, Ziqian and Zhuang, Huiping},
   booktitle = 	 {Proceedings of the 42nd International Conference on Machine Learning},
+  pages = 	 {22392--22406},
   year = 	 {2025},
+  editor = 	 {Singh, Aarti and Fazel, Maryam and Hsu, Daniel and Lacoste-Julien, Simon and Berkenkamp, Felix and Maharaj, Tegan and Wagstaff, Kiri and Zhu, Jerry},
+  volume = 	 {267},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {13--19 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v267/main/assets/he25d/he25d.pdf},
+  url = 	 {https://proceedings.mlr.press/v267/he25d.html}
 }
+
 ```
